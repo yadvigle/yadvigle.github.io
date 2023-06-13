@@ -1,0 +1,62 @@
+body{
+	background: #ffffff;
+}
+h1{
+	font-size: 5rem;
+	text-shadow: 1px 1px 1px blue;,
+             2px 2px 1px blue;
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+div{
+	width: 650px;
+margin: 0 auto;
+text-align: center;
+}
+
+p{
+	font-size: 20px;
+	width: 500px;
+	margin: 15px auto;
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	text-align: justify;
+
+}
+h2{
+	padding:10px 20px 10px;
+	text-align: center;
+	font-size: 3rem;
+	text-shadow: 1px 1px 1px blue;,
+             2px 2px 1px blue;
+             	font-family: "Trebuchet MS", Verdana, sans-serif;
+
+
+}
+button{
+	width: 150px;
+	height: 40px;
+	background: #778899;
+	color: #fff;
+	border: 2px solid #000;
+	cursor: pointer;
+}
+.my1class
+{
+font-size: 20px;
+}
+
+.site-header{
+	background-color: #c0c0c0;
+}
+.site-header h1
+{
+	color: #c0c0c0;
+	padding: 20px;
+	font-size: 10px;
+	box-shadow: 1px 1px 0 #c0c0c0;
+}
+.site-header h1
+{
+	margin: 10;
+		text-transform: uppercase;
+
+}
