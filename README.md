@@ -19,4 +19,4 @@
 ### Мой лендинг: [Landing page](https://yadvigle.github.io)
 
 # Экзаменационный билет №1
-### Мой билет: [Билет №1](https://yadvigle.github.io)
+### Мой билет: [Билет №1](https://github.com/yadvigle/yadvigle.github.io/wiki)
